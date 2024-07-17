@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Profile Summary:
-1010analytics is actively engaged in various projects focusing on JavaScript, Node.js, Python, Rust, and Kotlin. We are involved in diverse areas including data analysis, blockchain simulation, and web & app application development. The profile showcases a mix of public repositories, indicating an openness to sharing and collaboration within the GitHub community.**Profile Summary:**
-1010analytics is actively engaged in various projects focusing on JavaScript, Node.js, Python, Rust, and Kotlin. We are involved in diverse areas including data analysis, blockchain simulation, and web & app application development. The profile showcases a mix of public repositories, indicating an openness to sharing and collaboration within the GitHub community.
+1010analytics is actively engaged in various projects focusing on JavaScript, Node.js, Python, Rust, and Kotlin. We are involved in diverse areas including data analysis, AI/ML, blockchain, and web & app application development. The profile showcases a mix of public repositories, indicating an openness to sharing and collaboration within the GitHub community.
 
 
 
