@@ -5,7 +5,7 @@
 
 
 Contact Information:
-- Email: hello@1010analytics.io
+- Email: hello@1010analytics.io, data.scientist1010@gmail.com
 - Location: Remote
 - Website: [www.1010analytics.io](https://www.1010analytics.io)
 - LinkedIn: [1010analytics](https://www.linkedin.com/company/1010analytics/)
